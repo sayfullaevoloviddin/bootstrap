@@ -1,0 +1,15 @@
+.bg-gradient{
+    background: radial-gradient(skyblue,blue,lightblue);
+}
+.margin-left-p{
+    margin-left: 250px !important;
+}
+.line-height-p{
+    line-height: 8px !important;
+}
+.border-radius-a{
+    border-radius: 20px !important;
+}
+.margin-left-a{
+    margin-left: 450px !important;
+}

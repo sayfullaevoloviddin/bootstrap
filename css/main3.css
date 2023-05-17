@@ -1,0 +1,22 @@
+.mx-10{
+    margin-left: 180px;
+}
+.line-height{
+    line-height: 18px;
+}
+.bg-gradient{
+    background: linear-gradient(190deg,skyblue,blue);
+}
+.btn-color{
+    background-color: transparent;
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+.margin-left{
+    margin-left: 450px;
+}
+a:hover{
+    color: dodgerblue !important;
+}

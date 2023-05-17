@@ -1,0 +1,36 @@
+.jumbotron{
+    margin-top: 50px !important;
+}
+body{
+    background-color: hotpink;
+}
+span{
+    margin-top: 10px !important;
+    color: hotpink !important;
+}
+.row-2{
+    margin-top: -60px !important;
+    width: 635px !important;
+    height: 60px !important;
+}
+p{
+    margin-top: 18px !important;
+}
+.col-md-12{
+    margin-top: -5px !important;
+    margin-left: -17px !important;
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+}
+.alert{
+    margin-top: 20px !important;
+}
+b{
+    color: hotpink !important;
+}
+.line-height{
+    line-height: 3px !important;
+}
+.margin-top{
+    margin-top: 100px !important;
+}
